@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fe5dff8.css",
+    "main.js": "/static/js/main.10bfbc13.js",
+    "static/media/leaves.png": "/static/media/leaves.ea30f747724af47e5ce1.png",
+    "static/media/slider2.jpg": "/static/media/slider2.890c78aaba8f6febf167.jpg",
+    "static/media/c-5.jpg": "/static/media/c-5.4befb386eb0cf2fa4054.jpg",
+    "static/media/slider3.jpg": "/static/media/slider3.d5361d5a5827ca11a367.jpg",
+    "static/media/slider4.jpg": "/static/media/slider4.c93429b161f20d8cc2d4.jpg",
+    "static/media/slider1.jpg": "/static/media/slider1.0c6eade42813f6b53d65.jpg",
+    "static/media/c-1.jpg": "/static/media/c-1.a58a45d5d6bde5cf3bb1.jpg",
+    "static/media/c-2.jpg": "/static/media/c-2.4004a8fea26d63041910.jpg",
+    "static/media/logo.png": "/static/media/logo.2abc475cac55edb0f7f8.png",
+    "static/media/featuredProduct.jpg": "/static/media/featuredProduct.1b501074c3cb5665886d.jpg",
+    "static/media/c-4.jpg": "/static/media/c-4.177ca8b2c61286ba5a97.jpg",
+    "static/media/c-3.jpg": "/static/media/c-3.f5e05ab9446b136fe658.jpg",
+    "static/media/p-4.jpg": "/static/media/p-4.7ed4f14935ceb01132b7.jpg",
+    "static/media/p-1.jpg": "/static/media/p-1.9cd9f8214ffbd2e2d8b3.jpg",
+    "static/media/p-3.jpg": "/static/media/p-3.0a439cb1338bcf55079f.jpg",
+    "static/media/p-2.jpg": "/static/media/p-2.42683ce9a992dc576f47.jpg",
+    "index.html": "/index.html",
+    "main.9fe5dff8.css.map": "/static/css/main.9fe5dff8.css.map",
+    "main.10bfbc13.js.map": "/static/js/main.10bfbc13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe5dff8.css",
+    "static/js/main.10bfbc13.js"
+  ]
+}
